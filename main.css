@@ -1,15 +1,4 @@
-
-
-
-.inner{
+.logo-image{
+    width: 150px;
     height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
 }
-#b-1{background-color: #0a53be}
-#b-2{background-color: red}
-#b-3{background-color: rgb(123,34,65)}
-#b-4{background-color: rgba(134,234,45,1)}
-#b-5{background-color: yellow}
