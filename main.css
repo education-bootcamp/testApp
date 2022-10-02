@@ -1,4 +1,13 @@
 
+
+
+.inner{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
 #b-1{background-color: #0a53be}
 #b-2{background-color: red}
 #b-3{background-color: rgb(123,34,65)}
